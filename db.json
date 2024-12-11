@@ -60,5 +60,5 @@
 		{ "id": 2, "name": "Clothing", "slug": "clothing" },
 		{ "id": 3, "name": "Others", "slug": "others" }
 	],
-	"users": [{ "id": 1, "username": "admin", "email": "admin@gmail.com", "password": "admin", "role": "admin" }]
+	"users": []
 }
