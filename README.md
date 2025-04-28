@@ -2,14 +2,9 @@
 
 - Thời gian làm bài: 180 phút.
 - Download repo về máy của học viên và thực hiện code trực tiếp trong thư mục này.
-- Sau khi làm bài xong, học viên đẩy code lên github của mình và nộp lại link repo đó qua google form: https://forms.gle/JacfB8vV9L7sFfsn9.
+- Sau khi làm bài xong, học viên đẩy code lên github của mình và nộp lại link repo đó qua google form: [Form Nộp Bài](https://forms.gle/1hTpkbFfCKyzvXP1).
 - Trong quá trình làm bài, gỡ bỏ và không sử dụng các extensions có sử dụng AI như Tabnine, Github copilot, Codeium, v.v.
-- Được phép mở các trang web sau trong quá trình làm bài:
-  - Bootstrap: https://getbootstrap.com/
-  - Tailwind CSS: https://tailwindcss.com/
-  - Google Fonts: https://fonts.google.com/
-  - Font Awesome: https://fontawesome.com/
-  - Boxicons: https://boxicons.com/
+- Được phép mở các trang web lấy giao diện hoặc icons như tailwindCSS, bootstrap, boxicon, fontawesome, .v.v trong quá trình làm bài.
 
 ## Yêu cầu
 
